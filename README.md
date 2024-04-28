@@ -1,5 +1,5 @@
-# How to create an luanch your first EC2 Instance
-## Sign in to the AWS Management Console, Navigate to EC2
-### Under compute, Launch Instance
-#### Choose an AMI, choose an instance type, create a key pair, 
-##### Launch Instance
+# How to create an launch my first EC2 Instance
+## 1. Sign in to the AWS Management Console, Navigate to EC2
+### 2.Under compute, Launch Instance
+#### 3.Choose an AMI, choose an instance type, create a key pair, 
+##### 4. Launch Instance
